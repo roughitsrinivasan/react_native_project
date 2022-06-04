@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "259257895020",
+    "project_id": "housemarketsearch",
+    "storage_bucket": "housemarketsearch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259257895020:android:b304b575cd969671433049",
+        "android_client_info": {
+          "package_name": "com.render.housilon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259257895020-fippslci9gu0lldoefcdjv8vvbmmbhqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNaAxnFMGvZS65lBHpshOhOWnpOG3o-SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259257895020-fippslci9gu0lldoefcdjv8vvbmmbhqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259257895020:android:f26a0085d438e795433049",
+        "android_client_info": {
+          "package_name": "com.yourdomain.foodApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259257895020-fippslci9gu0lldoefcdjv8vvbmmbhqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNaAxnFMGvZS65lBHpshOhOWnpOG3o-SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259257895020-fippslci9gu0lldoefcdjv8vvbmmbhqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

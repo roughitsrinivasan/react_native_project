@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027917864982",
+    "project_id": "featurepreneur",
+    "storage_bucket": "featurepreneur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027917864982:android:19d196b1ef08eb60905537",
+        "android_client_info": {
+          "package_name": "com.feat.featurepreneur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027917864982-0csg4la2dck4fvojh09fr4f2sic42h6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AIP4IgxznhCXB5BIDIlk4aF15L5eyMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027917864982-0csg4la2dck4fvojh09fr4f2sic42h6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

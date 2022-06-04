@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Featurepreneur",
+    "description":"Deliver Food App",
+    "slug": "Featurepreneur",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/illustrations/logo.png",
+    "splash": {
+      "image": "./assets/illustrations/FeaturePreneur.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.feat.featurepreneur",
+      "googleServicesFile": "./google-services.json",
+      "config":{
+        "googleSignIn":{
+          "apiKey": "AIzaSyDV8Ot2YgSDzMBqXtp8mwHiWxYHialPwEA"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
